@@ -76,7 +76,7 @@ export const localeRU = {
 		supportedTypes: "Поддерживаемые типы двухфакторной аутентификации",
 		totpQRCode: "TOTP",
 		totpQRCodeText: "TOTP QR-код - самый распространённый тип, если вы настраивайте двухфакторную аутентификацию. Состоит из 6 цифр, которые меняются каждые 30 секунд.",
-		instructions: "Instructions",
+		instructions: "Инструкции",
 		googleAuthQRCode: "Google Authenticator",
 		googleAuthQRCodeText: "Если вы используете Google Authenticator вы можете экспортировать все свои коды и импортировать их в Authme.",
 		chooseImportMethod: "Выберите метод импорта",
