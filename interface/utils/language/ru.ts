@@ -1,4 +1,6 @@
-export const localeRU = {
+import { localeEN } from "@utils/language/en"
+
+export const localeRU: typeof localeEN = {
 	common: {
 		confirm: "Подтвердить",
 		continue: "Продолжить",
